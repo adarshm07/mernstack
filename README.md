@@ -1,10 +1,13 @@
 # mernstack
 
 Objective:
+
 The objective of this project is to build a node.js web application that will help a company track
 its assets which are being used by its employees. Assets include all tangible items like laptops, cell
 phones, modems, tools, etc.
+
 Detailed Requirements:
+
 1. Employee Master: Add/Edit/View all employees in the company. Provide filters for
 active/inactive employees along with search capabilities.
 2. Asset Master: Add/Edit/View all assets in the company. Provide filters for asset type, search by
@@ -22,9 +25,9 @@ asset(s) should not be visible in any page except in reports.
 This helps to understand the utilization of money invested in it.
 Tech Stack:
 1. Node.js (express server)
-2. PostgreSQL - Database
-3. Sequelize ORM
-4. Jade - for HTML
+2. PostgreSQL - Database // MongoDB
+3. Sequelize ORM // Robo 3T
+4. Jade - for HTML // HTML
 5. Bootstrap
 6. CSS
 7. DataTables.net (to display data in tables)
