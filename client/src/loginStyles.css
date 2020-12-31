@@ -1,0 +1,16 @@
+
+/* Made with love by Mutiullah Samim*/
+
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+html,body{
+background-image: url('https://cdn02.plentymarkets.com/2brofzsczyt8/item/images/183400/full/Esprit-Home-Papiertapete-Uni-Einfarbig-Struktur-he.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+/* font-family: 'Numans', sans-serif; */
+}
+
+.login{
+    margin-top: 20%;
+}
