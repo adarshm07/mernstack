@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import { Link, useHistory } from "react-router-dom";
 import Navbar from "../layout/Navbar";
+import DataTable, { createTheme } from 'react-data-table-component';
 
 const Home = () => {
   let history = useHistory();
