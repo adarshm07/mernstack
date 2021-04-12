@@ -1,0 +1,52 @@
+[
+{
+gForceCount: 397,
+gForceEndRange: 0.01,
+gForceStartRange: 0
+},
+{
+gForceCount: 182,
+gForceEndRange: 0.02,
+gForceStartRange: 0.01
+},
+{
+gForceCount: 45,
+gForceEndRange: 0.03,
+gForceStartRange: 0.02
+},
+{
+gForceCount: 13,
+gForceEndRange: 0.04,
+gForceStartRange: 0.03
+},
+{
+gForceCount: 2,
+gForceEndRange: 0.05,
+gForceStartRange: 0.04
+},
+{
+gForceCount: 0,
+gForceEndRange: 0.06,
+gForceStartRange: 0.05
+},
+{
+gForceCount: 0,
+gForceEndRange: 0.07,
+gForceStartRange: 0.06
+},
+{
+gForceCount: 0,
+gForceEndRange: 0.08,
+gForceStartRange: 0.07
+},
+{
+gForceCount: 0,
+gForceEndRange: 0.09,
+gForceStartRange: 0.08
+},
+{
+gForceCount: 0,
+gForceEndRange: 0.1,
+gForceStartRange: 0.09
+}
+]
